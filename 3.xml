@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<download>
+    <object>
+        <url>http://rulinks.org/uploads/posts/2010-12/1293026134_01.jpg</url>
+        <name>Test1Xml.jpg</name>
+    </object>
+    <object>
+        <url>http://s1.iconbird.com/ico/2013/10/471/w256h2561383075037FolderArchivezipicon.png</url>
+        <name>Test2Xml.jpg</name>
+    </object>
+    <object>
+        <url>http://rulinks.org/uploads/posts/2010-12/1293026134_01.jpg</url>
+        <name>Test3Xml.jpg</name>
+    </object>
+</download>

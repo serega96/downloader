@@ -1,0 +1,14 @@
+{
+  "object1": {
+    "url": "http://rulinks.org/uploads/posts/2010-12/1293026134_01.jpg",
+    "name": "Test1json.jpg"
+  },
+  "object2": {
+    "url": "http://s1.iconbird.com/ico/2013/10/471/w256h2561383075037FolderArchivezipicon.png",
+    "name": "Test2json.jpg"
+  },
+  "object3": {
+    "url": "http://rulinks.org/uploads/posts/2010-12/1293026134_01.jpg",
+    "name": "Test3json.jpg"
+  }
+}
