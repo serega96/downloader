@@ -46,9 +46,9 @@ public class DownloaderApplication {
         }
 
         if (!name.equals("")) {
-            DownloadServiceImpl image = new DownloadServiceImpl();
+            DownloadServiceImpl dw = new DownloadServiceImpl();
 
-            image.download(url, saveUrl + name);
+            dw.download(url, saveUrl + name);
         }
 
         if (!nameOfFile.equals("")) {
